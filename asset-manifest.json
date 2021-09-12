@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactApp-Natours/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ReactApp-Natours/static/js/main.a8d44ce2.chunk.js",
+    "main.js.map": "/ReactApp-Natours/static/js/main.a8d44ce2.chunk.js.map",
+    "runtime-main.js": "/ReactApp-Natours/static/js/runtime-main.4d68106d.js",
+    "runtime-main.js.map": "/ReactApp-Natours/static/js/runtime-main.4d68106d.js.map",
+    "static/js/2.a0eff17f.chunk.js": "/ReactApp-Natours/static/js/2.a0eff17f.chunk.js",
+    "static/js/2.a0eff17f.chunk.js.map": "/ReactApp-Natours/static/js/2.a0eff17f.chunk.js.map",
+    "static/js/3.068ab9ca.chunk.js": "/ReactApp-Natours/static/js/3.068ab9ca.chunk.js",
+    "static/js/3.068ab9ca.chunk.js.map": "/ReactApp-Natours/static/js/3.068ab9ca.chunk.js.map",
+    "index.html": "/ReactApp-Natours/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ReactApp-Natours/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a0eff17f.chunk.js.LICENSE.txt": "/ReactApp-Natours/static/js/2.a0eff17f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactApp-Natours/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d68106d.js",
+    "static/js/2.a0eff17f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a8d44ce2.chunk.js"
+  ]
+}
