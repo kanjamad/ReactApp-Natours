@@ -1,14 +1,22 @@
-*{
+*,
+*::before,
+*::after{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: inherit;
+}
+
+html{
+  /* font-size: 10px; */
+  font-size: 62.5%; /* if 100% => 10/16 = 0.625 */
 }
 
 body{
   font-family: "Lato",sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  /* font-size: 16px; */
   line-height: 1.7;
   color: #777;
-  padding: 30px;
+  padding: 3rem; /* 30px/10rem = 3 rem ( 1px = 10 rem)*/
+  box-sizing: border-box;
 }
