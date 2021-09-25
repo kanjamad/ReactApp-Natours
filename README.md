@@ -4,7 +4,9 @@
 ---
 - React.js
 - Javascript
+- Sass
 - HTML/CSS
+- Animations
 - ESlint
 - Prettier
 - Google fonts
@@ -19,7 +21,9 @@ img {
 ```
 ![clip-path](src/img/clip.png "clip-path")
 
-
+## How units are converted from relative to absolute(px)
+![units](src/img/px.jpg "units")
+> Resources : Jonas Schmedtmann Udemy courses
 
 
 ### Additional Resources
